@@ -1,4 +1,4 @@
-# QA_Manual_testing
+#Test Plan for demoblaze.com
 ________________________________________
 
 
