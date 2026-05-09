@@ -1,5 +1,7 @@
 # QA_Manual_testing
 
+
+
 1. Objective
 Verify that the core shopping features on demoblaze.com function correctly for a standard user  -- including login, product browsing, add to cart, and checkout. The goal is to ensure users can complete a purchase without errors.
 
