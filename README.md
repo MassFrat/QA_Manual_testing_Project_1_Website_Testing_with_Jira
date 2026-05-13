@@ -17,11 +17,11 @@ Cart, Checkout and UI. All bugs logged in Jira.
 |---|---|
 | \`test-plan-demoblaze.pdf\` | 1-page test plan — scope, tools, timeline, risks |
 | \`test-cases-demoblaze.csv\` | All 20 test cases with full steps and results |
-| \`qa-summary-report-demoblaze.pdf\` | Completed QA report with verdict |
+| \`qa-summary-report-demoblaze.pdf\` | Completed QA report with |
 | \`bug-reports/\` | Annotated screenshots for all 8 bugs |
 | \`screenshots/\` | Test execution evidence |
 
----
+
 
 ## Results summary
 
