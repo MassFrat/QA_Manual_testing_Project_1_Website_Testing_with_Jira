@@ -6,8 +6,11 @@
 ![Status](https://img.shields.io/badge/Status-Complete-blue)
 
 Manual QA testing performed on [demoblaze.com](https://demoblaze.com)
-covering 20 test cases across 5 functional areas — Login, Browse,
-Cart, Checkout and UI. All bugs logged in Jira.
+covering 20 test cases across 5 functional areas:
+<br>
+Login, Browse, Cart, Checkout and UI. 
+<br>
+All bugs logged in Jira.
 
 ---
 
@@ -50,6 +53,7 @@ Cart, Checkout and UI. All bugs logged in Jira.
 
 - Test cases: Google Sheets - Google Documents
 - Bug tracking: Jira (free tier)
-- Browser: Chrome 124 · Desktop · Windows 11
+- Browser: Chrome 148 / Firefox 150 
+- Desktop · Windows 11
 - Screenshots: Snagit / Lightshot / Windows 11
-- Test date: May 2026`}
+- Test date: May 2026
