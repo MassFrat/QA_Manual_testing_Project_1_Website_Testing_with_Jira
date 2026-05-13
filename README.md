@@ -1,4 +1,4 @@
-# Project 1 — demoblaze.com Manual QA
+# Project 1 -  Manual QA with demoblaze.com
 
 ![Pass](https://img.shields.io/badge/Pass-16-green)
 ![Fail](https://img.shields.io/badge/Fail-4-red)
