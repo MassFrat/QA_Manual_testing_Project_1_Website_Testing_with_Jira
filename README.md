@@ -31,8 +31,8 @@ All bugs logged in Jira.
 ## Results summary
 
 - 20 test cases executed
-- 16 Pass · 4 Fail · 80% pass rate
-- 8 bugs found: 1 Critical, 3 Medium, 4 Low
+- 16 Pass (4 additional bugs found inside Passing tests)· 4 Fail · 80% pass rate 
+- 8 total bugs found: 1 Critical, 3 Medium, 4 Low 
 
 ---
 
